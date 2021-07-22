@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mbeben
+- 👀 I’m interested in web and game development
+- 🌱 I’m currently learning python, vue and react.js
